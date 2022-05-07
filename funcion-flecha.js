@@ -11,3 +11,13 @@ vec.forEach(elem=>{
 });
 console.log(vec);
 */
+const sumar = num=>console.log(num)
+sumar(2);
+
+const sumarDos=(num1,num2)=>{
+    let sumar=num1+num2;
+    return sumar
+}
+const sumaTot=sumarDos(2,5);
+console.log(sumaTot);
+
