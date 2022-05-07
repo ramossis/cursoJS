@@ -21,3 +21,4 @@ const sumarDos=(num1,num2)=>{
 const sumaTot=sumarDos(2,5);
 console.log(sumaTot);
 
+
